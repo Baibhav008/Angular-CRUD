@@ -1,5 +1,9 @@
 # ProductsConsole
 
+
+https://github.com/user-attachments/assets/b5fcdefd-4693-4176-a0a4-f33101db6630
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
